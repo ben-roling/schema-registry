@@ -13,6 +13,7 @@
     <artifactId>kafka-schema-registry-client</artifactId>
     <packaging>jar</packaging>
     <name>kafka-schema-registry-client</name>
+    <version>4.0.0-issue629</version>
 
     <dependencies>
         <dependency>
